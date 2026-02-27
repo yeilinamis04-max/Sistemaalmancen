@@ -8,6 +8,7 @@ class Program
 		bool salir = false;
 		// segundo commit
 
+
 		while (!salir)
 		{
 			Console.WriteLine("\n--- SISTEMA DE GESTIÓN DE PRODUCTOS ---");
