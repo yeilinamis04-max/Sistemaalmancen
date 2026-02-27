@@ -13,7 +13,7 @@ public class Almacen
 		productos.Add(producto);
 		return true;
 	}
-
+	// commit almacen
 	public Producto BuscarProducto(string codigo)
 	{
 		return productos.FirstOrDefault(p => p.Codigo == codigo);
