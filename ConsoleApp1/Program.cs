@@ -6,6 +6,7 @@ class Program
 	{
 		Almacen almacen = new Almacen();
 		bool salir = false;
+		// segundo commit
 
 		while (!salir)
 		{
