@@ -16,3 +16,4 @@
 		return $"Código: {Codigo}, Nombre: {Nombre}, Precio: {Precio}";
 	}
 }
+// commit producto
